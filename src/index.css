@@ -16,7 +16,7 @@ div.progress-bar {
     top: 15px;
     left: 10px;
     right: 10px;
-    background-color: white;
+    background-color: deeppink;
     border-radius: 10px;
     height: 5px;
 }

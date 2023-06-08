@@ -1,5 +1,5 @@
 {
-  "name": "pt-3-front-end",
+  "name": "video-progress-bar",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -16,5 +16,9 @@
   },
   "scripts": {
     "start": "vite"
-  }
+  },
+  "description": "video-progress-bar",
+  "repository": "https://github.com/liamkande/video-progress-bar.git",
+  "author": "Liam Ansoumane Kande",
+  "homepage": "."
 }
